@@ -5,5 +5,5 @@
 - I have looked a new strategy for visualization of the Principle Component Analysis (PCA) instead of two component PCA plots which gives me more insights of the data. This new visualization techniques
 for analyzing the data is confirmed when we look at the final model.
 
-- <font color=blue>Text</font>
+- > ddd
 
