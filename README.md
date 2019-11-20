@@ -15,3 +15,4 @@ The file Modeling.ipynb contains the modeling process.
 
 
 
+For a high level overview in blog post form check out this link:
