@@ -15,4 +15,4 @@ The file Modeling.ipynb contains the modeling process.
 
 
 
-For a high level overview in blog post form check out this link:
+For a high level overview in blog post form check out this link: [Medium](https://medium.com/@smollaha/imbalanced-data-visualization-and-random-forest-25cbff51f711)
