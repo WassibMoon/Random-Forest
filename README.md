@@ -6,11 +6,11 @@ The data set is the "Forest Cover Type Dataset" obtained from [kaggle](https://w
 for analyzing the data is confirmed when we look at the final model.
 
 Here are a list of descriptions for each folder in this reposition
--  */Data Exploration*
+-  *data_exploration.ipynb
 
-   The file data_exploration.ipynb contains the data exploration and visualization techniques.
+   The file contains the data exploration and visualization techniques.
 
-- *Feature Selection and Hyper Parameter Tuning*
+- *Modeling.ipynb*
 
   The file Modeling.ipynb contains the modeling process.
 
